@@ -24,9 +24,14 @@ public class snapDeal {
 			System.out.println(text1);
 			System.out.println("///////////////////////////////////");
 			System.out.println("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
-		System.out.println("vicky");
-		System.out.println("marcellin");
+			System.out.println("vicky");
+			System.out.println("marcellin");
+			System.out.println("bala");
+			System.out.println("gopi");
+
+		
 			
+
 		}
 	}
 
