@@ -23,15 +23,7 @@ public class snapDeal {
 			String text1 = x.getText();
 			System.out.println(text1);
 			System.out.println("///////////////////////////////////");
-			System.out.println("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
-			System.out.println("bala");
-			System.out.println("gopi");
-		System.out.println("vicky");
-		System.out.println("marcellin");
-		System.out.println("dass");
-		System.out.println("aravindh");
-
-		
+					
 		
 
 			
