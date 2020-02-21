@@ -23,7 +23,7 @@ public class snapDeal {
 			String text1 = x.getText();
 			System.out.println(text1);
 			System.out.println("///////////////////////////////////");
-					
+			System.out.println(".............................");		
 		
 
 			
