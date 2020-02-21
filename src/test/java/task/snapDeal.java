@@ -22,12 +22,9 @@ public class snapDeal {
 		for (WebElement x : a) {
 			String text1 = x.getText();
 			System.out.println(text1);
-			System.out.println("///////////////////////////////////");
-			System.out.println("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
-			System.out.println("vicky");
-			System.out.println("marcellin");
-			System.out.println("bala");
-			System.out.println("gopi");
+			System.out.println("ccccccccccccccccccccccccccccccccccccc");
+			System.out.println("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb");
+	
 
 		
 			
