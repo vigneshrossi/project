@@ -22,7 +22,8 @@ public class snapDeal {
 		for (WebElement x : a) {
 			String text1 = x.getText();
 			System.out.println(text1);
-			System.out.println("00000000000000000000000000000000000000000000000000");
+			System.out.println("1111111111111111111111111111111111111111");
+			System.out.println("2222222222222222222222222222222222222222");
 			
 			}
 	}
