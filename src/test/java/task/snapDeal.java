@@ -24,6 +24,7 @@ public class snapDeal {
 			System.out.println(text1);
 			System.out.println("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA");
 			System.out.println("BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB");
+			System.out.println("CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC");
 			
 
 			
