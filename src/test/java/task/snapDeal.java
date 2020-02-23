@@ -2,6 +2,7 @@ package task;
 public class snapDeal {
 	public static void main(String[] args) {
 	System.out.println("11111111111111111111111111111");
-	System.out.println("22222222222222222222222222222");
+	System.out.println("99999999999999999999999999999");
+	System.out.println("88888888888888888888888888888");
 	}
 }
